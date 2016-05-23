@@ -50,6 +50,7 @@
   <ItemGroup>
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="TestBootstrapper.cs" />
+    <Compile Include="TestRootPathProvider.cs" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\MyNancyApp\MyNancyApp.csproj">
