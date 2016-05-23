@@ -106,6 +106,7 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Assets\" />
+    <Folder Include="Models\" />
     <Folder Include="Modules\" />
     <Folder Include="Serializers\" />
     <Folder Include="Validators\" />
